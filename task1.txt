@@ -4,3 +4,5 @@ giorgi
 asdasdasdadaf
 
 conflict fixed
+
+added line 4
