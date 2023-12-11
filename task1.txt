@@ -1,1 +1,12 @@
+<<<<<<< HEAD
 asdasdasdadaf
+=======
+
+giorgi
+
+asdasdasdadaf
+
+conflict fixed
+
+added line 4
+>>>>>>> 5c77bfd (added line 4)
